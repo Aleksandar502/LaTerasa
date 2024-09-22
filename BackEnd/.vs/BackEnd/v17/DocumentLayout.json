@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\source\\repos\\BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E00D6A39-3D9F-4AAE-8952-F07E20DE3649}|Dal\\Dal.csproj|c:\\users\\aleks\\source\\repos\\backend\\dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00D6A39-3D9F-4AAE-8952-F07E20DE3649}|Dal\\Dal.csproj|solutionrelative:dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00D6A39-3D9F-4AAE-8952-F07E20DE3649}|Dal\\Dal.csproj|c:\\users\\aleks\\source\\repos\\backend\\dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E00D6A39-3D9F-4AAE-8952-F07E20DE3649}|Dal\\Dal.csproj|solutionrelative:dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE5524-EA4E-4BB5-A668-9DFEF8A3CD44}|Core\\Core.csproj|c:\\users\\aleks\\source\\repos\\backend\\core\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CE5524-EA4E-4BB5-A668-9DFEF8A3CD44}|Core\\Core.csproj|solutionrelative:core\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE5524-EA4E-4BB5-A668-9DFEF8A3CD44}|Core\\Core.csproj|c:\\users\\aleks\\source\\repos\\backend\\core\\models\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CE5524-EA4E-4BB5-A668-9DFEF8A3CD44}|Core\\Core.csproj|solutionrelative:core\\models\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE5524-EA4E-4BB5-A668-9DFEF8A3CD44}|Core\\Core.csproj|c:\\users\\aleks\\source\\repos\\backend\\core\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CE5524-EA4E-4BB5-A668-9DFEF8A3CD44}|Core\\Core.csproj|solutionrelative:core\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D380BF-081C-4395-98D2-E09A59A11EA3}|BackEnd\\BackEnd.csproj|c:\\users\\aleks\\source\\repos\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11D380BF-081C-4395-98D2-E09A59A11EA3}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE5524-EA4E-4BB5-A668-9DFEF8A3CD44}|Core\\Core.csproj|c:\\users\\aleks\\source\\repos\\backend\\core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CE5524-EA4E-4BB5-A668-9DFEF8A3CD44}|Core\\Core.csproj|solutionrelative:core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\BackEnd\\Dal\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\BackEnd\\Dal\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Dal\\Repositories\\Repository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA5wB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T08:00:40.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\BackEnd\\Core\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\BackEnd\\Core\\Models\\Food.cs",
+              "RelativeToolTip": "Core\\Models\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:58:07.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\BackEnd\\Dal\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Dal\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\BackEnd\\Dal\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Dal\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:55:36.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\BackEnd\\Core\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\BackEnd\\Core\\Models\\Reservation.cs",
+              "RelativeToolTip": "Core\\Models\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:41:40.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\BackEnd\\Core\\Models\\Drink.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Drink.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\BackEnd\\Core\\Models\\Drink.cs",
+              "RelativeToolTip": "Core\\Models\\Drink.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:34:20.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\BackEnd\\Core\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\BackEnd\\Core\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:51:45.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\BackEnd\\BackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "BackEnd\\appsettings.json",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\BackEnd\\BackEnd\\appsettings.json",
+              "RelativeToolTip": "BackEnd\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-22T07:14:30.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
